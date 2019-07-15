@@ -17,8 +17,11 @@ ___
 ### Pre-Requesitos
 
 [Laravel] version 5.8.27.
+
 MySQL
+
 COMPOSER
+
 GIT
 
 ### Para instalar y ejecutar proyecto
